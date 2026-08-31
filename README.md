@@ -43,3 +43,8 @@ Meu foco é aprender construindo e desenvolver soluções cada vez mais úteis e
 ### 🎯 Objetivo
 
 Construir uma base sólida em programação e, futuramente, atuar no desenvolvimento de software, especialmente em projetos envolvendo automação e tecnologia.
+
+## 📫 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/joão-victor-claumann-560a97432/)
+- 🐙 [GitHub](https://github.com/JVClaumann)
