@@ -1,16 +1,45 @@
-## Hi there 👋
+# Olá! Eu sou João Victor 👋
 
-<!--
-**JVClaumann/JVClaumann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sou estudante do Ensino Médio e estou construindo minha base em programação, com foco em automações e desenvolvimento de software.
 
-Here are some ideas to get you started:
+## Atualmente estou estudando lógica de programação e desenvolvendo projetos próprios para transformar o que aprendo em aplicações práticas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Atualmente estudando:
+
+- Python
+
+- Lógica de programação
+
+- Git e GitHub
+
+- Automação
+
+- Estruturas de dados
+
+- APIs
+
+### 🛠️ Tecnologias:
+
+Linguagens:
+
+- Python
+
+Ferramentas:
+
+- Git
+
+- GitHub
+
+- VS Code
+
+- PyCharm
+
+### 📂 Projetos
+
+Aqui compartilho meus projetos, exercícios e experimentos enquanto evoluo na programação.
+
+Meu foco é aprender construindo e desenvolver soluções cada vez mais úteis e completas.
+
+### 🎯 Objetivo
+
+Construir uma base sólida em programação e, futuramente, atuar no desenvolvimento de software, especialmente em projetos envolvendo automação e tecnologia.
